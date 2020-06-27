@@ -1,0 +1,11 @@
+import math
+print("Sin60=",math.sin(60))
+print("cos(pi)",math.cos(math.pi))
+print("Tan90=",math.tan(90))
+print("Sin(0.8660254037844386)=",math.sin(0.8660254037844386))
+print("5^8=",5^8)
+print("Square root of 400=",math.sqrt(400))
+print("5^e=",5^int(math.e))
+print("The Of Log(1024)=",math.log(1024,2))
+print("The Of Log(1024)=",math.log(1024,10))
+print("Floor(23.56)=",math.floor(23.56),"Ceiling(23.56)=",math.ceil(23.56))
